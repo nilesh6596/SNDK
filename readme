@@ -1,1 +1,5 @@
 
+Implemented POST management system for updating deleting and posting the post related to different articles
+like IT, Non-IT, Bussiness, Sports
+
+Uploaded database UI (angular 4) and backend (nodejs---express)
