@@ -3,3 +3,8 @@ Implemented POST management system for updating deleting and posting the post re
 like IT, Non-IT, Bussiness, Sports
 
 Uploaded database UI (angular 4) and backend (nodejs---express)
+
+To run the project in your system
+download the POST_UI, POST_BACKEND and db file.
+restore the db using mongorestore
+do npm i for the POST_UI, no need to do npm i for POST_BACKEND as node_modules are already there.
