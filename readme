@@ -8,3 +8,7 @@ To run the project in your system
 download the POST_UI, POST_BACKEND and db file.
 restore the db using mongorestore
 do npm i for the POST_UI, no need to do npm i for POST_BACKEND as node_modules are already there.
+
+to restore db type below command in cmd 
+mongorestore as new db
+mongorestore --db Interview  "path_where_you_have_downloaded_db.zip"
